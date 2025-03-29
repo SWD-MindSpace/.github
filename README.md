@@ -1,6 +1,6 @@
 # MindSpace - School Mental Health Management System
 <div align="center">
-    <img src=".readme/images/logo.jpg" alt="MindSpace" height='80px'/>
+    <img src="./readme/images/logo.jpg" alt="MindSpace" height='80px'/>
     <p>MindSpace is a web application that provides mental health services for high school students and parents.</p>
 </div>
 <div align='center'>
@@ -153,33 +153,33 @@ https://localhost:7096/swagger/index.html
 
 <a id="uc-diagram"></a>
 ## 4. Use Case Diagram
-<img src=".readme/images/MindSpace-UsecaseDiagram.png" alt="MindSpace-UsecaseDiagram" />
+<img src="./readme/images/MindSpace-UsecaseDiagram.png" alt="MindSpace-UsecaseDiagram" />
 
 <a id="db-design"></a>
 ## 5. Database Design
-<img src=".readme/images/MindSpace-ERD.png" alt="MindSpace-ERD" />
+<img src="./readme/images/MindSpace-ERD.png" alt="MindSpace-ERD" />
 
 <a id="architecture"></a>
 ## 6. Architecture Diagram
-<img src=".readme/images/MindSpace-ArchitectureDiagram.png" alt="MindSpace-ArchitectureDiagram" />
+<img src="./readme/images/MindSpace-ArchitectureDiagram.png" alt="MindSpace-ArchitectureDiagram" />
 
 <a id="screen-flow"></a>
 ## 7. Screen Flow
 
 ### 7.1. Student Screen Flow:
-<img src=".readme/images/MindSpace-StudentScreenflow.png" alt="MindSpace-StudentScreenflow" />
+<img src="./readme/images/MindSpace-StudentScreenflow.png" alt="MindSpace-StudentScreenflow" />
 
 ### 7.2. Parent Screen Flow:
-<img src=".readme/images/MindSpace-ParentScreenflow.png" alt="MindSpace-ParentScreenflow" />
+<img src="./readme/images/MindSpace-ParentScreenflow.png" alt="MindSpace-ParentScreenflow" />
 
 ### 7.3. Psychologist Screen Flow:
-<img src=".readme/images/MindSpace-PsychologistScreenflow.png" alt="MindSpace-PsychologistScreenflow" />
+<img src="./readme/images/MindSpace-PsychologistScreenflow.png" alt="MindSpace-PsychologistScreenflow" />
 
 ### 7.4. School Manager Screen Flow:
-<img src=".readme/images/MindSpace-SchoolManagerScreenflow.png" alt="MindSpace-SchoolManagerScreenflow" />
+<img src="./readme/images/MindSpace-SchoolManagerScreenflow.png" alt="MindSpace-SchoolManagerScreenflow" />
 
 ### 7.5. Admin Screen Flow:
-<img src=".readme/images/MindSpace-AdminScreenflow.png" alt="MindSpace-AdminScreenflow" />
+<img src="./readme/images/MindSpace-AdminScreenflow.png" alt="MindSpace-AdminScreenflow" />
 
 <a id="team-members"></a>
 ## 8. Team members
