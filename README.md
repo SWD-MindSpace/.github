@@ -72,20 +72,24 @@ MindSpace aims to bridge this gap by providing a digital platform where students
 <details>
   <summary>Server</summary>
   <ul>
-    <li>ASP .NET Core API</li>
-    <li>Entity Framework</li>
-    <li>ASP .NET Identity</li>
-    <li>JWT</li>
+    <li>ASP.NET Core Web API</li>
+    <li>.NET Entity Framework</li>
+    <li>ASP.NET Identity</li>
+    <li>Serilog</li>
+    <li>Quazt.NET Job Schedulings</li>
+    <li>JWT Authentication</li>
+    <li>Postman</li>
     <li>Swagger OpenAPI</li>
-    <li>ASP .NET SignalR</li>
-    <li>Mediator</li>
+    <li>ASP.NET SignalR Realtime Communication</li>
+    <li>Mediator Design Pattern</li>
+    <li>CQRS with Clean Architecture</li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li>Microsoft SQL Server</li>
+    <li>Microsoft Azure SQL Server</li>
     <li>Redis</li>
   </ul>
 </details>
@@ -95,17 +99,17 @@ MindSpace aims to bridge this gap by providing a digital platform where students
   <ul>
     <li>Docker</li>
     <li>Microsoft Azure Cloud Services</li>
-    <li>Github Actions</li>
+    <li>Github Actions Auto Deployment</li>
   </ul>
 </details>
 
 <details>
 <summary>Others</summary>
   <ul>
-    <li>Gemini API</li>
-    <li>Stripe API</li>
-    <li>WebRTC</li>
-    <li>Cloudinary File Storage</li>
+    <li>Gemini API - AI Agent Chat Service</li>
+    <li>Stripe API - Payment Service</li>
+    <li>WebRTC - Video Streaming Service</li>
+    <li>Cloudinary File Storage - Static File Storages</li>
   </ul>
 </details>
 
