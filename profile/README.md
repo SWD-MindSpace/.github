@@ -60,19 +60,19 @@ MindSpace aims to bridge this gap by providing a digital platform where students
 
 | Client | Description | Server | Description |
 |--------|------------|--------|------------|
-| TypeScript ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) | Strongly typed JavaScript | ASP.NET Core Web API ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white) | Backend framework for building APIs |
-| Next.js ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) | React framework with server-side rendering | .NET Entity Framework ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?logo=dotnet&logoColor=white) | ORM for database interactions |
-| React Native ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=white) | Mobile app development | ASP.NET Identity ![ASP.NET Identity](https://img.shields.io/badge/ASP.NET%20Identity-512BD4?logo=dotnet&logoColor=white) | Authentication and authorization |
-| Hero UI ![Hero UI](https://img.shields.io/badge/Hero%20UI-38B2AC?logo=heroicons&logoColor=white) | UI component library | Serilog ![Serilog](https://img.shields.io/badge/Serilog-4B8BBE?logo=serilog&logoColor=white) | Structured logging framework |
-| Tailwind CSS ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white) | Utility-first CSS framework | Quartz.NET ![Quartz.NET](https://img.shields.io/badge/Quartz.NET-004080?logo=clockify&logoColor=white) | Job scheduling library |
-| Axios ![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white) | HTTP client for API requests | JWT Authentication ![JWT](https://img.shields.io/badge/JWT%20Auth-000000?logo=jsonwebtokens&logoColor=white) | Token-based authentication |
-| | | Postman ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) | API testing tool |
-| | | Swagger OpenAPI ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white) | API documentation generator |
-| | | SignalR ![SignalR](https://img.shields.io/badge/SignalR-0088CC?logo=microsoft&logoColor=white) | Real-time communication |
-| | | Mediator Pattern ![Mediator](https://img.shields.io/badge/Mediator-0078D4?logo=microsoft&logoColor=white) | Decouples communication between components |
-| | | CQRS with Clean Architecture ![CQRS](https://img.shields.io/badge/CQRS-0078D4?logo=microsoft&logoColor=white) | Separates read/write operations |
-| | | Excel API ![Excel API](https://img.shields.io/badge/Excel%20API-217346?logo=microsoft-excel&logoColor=white) | Microsoft Excel data processing |
-| | | Gmail API ![Gmail API](https://img.shields.io/badge/Gmail%20API-D14836?logo=gmail&logoColor=white) | Email automation and integration |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) | Strongly typed JavaScript | ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white) | Backend framework for building APIs |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) | React framework with server-side rendering | ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?logo=dotnet&logoColor=white) | ORM for database interactions |
+| ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=white) | Mobile app development | ![ASP.NET Identity](https://img.shields.io/badge/ASP.NET%20Identity-512BD4?logo=dotnet&logoColor=white) | Authentication and authorization |
+| ![Hero UI](https://img.shields.io/badge/Hero%20UI-38B2AC?logo=heroicons&logoColor=white) | UI component library | ![Serilog](https://img.shields.io/badge/Serilog-4B8BBE?logo=serilog&logoColor=white) | Structured logging framework |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white) | Utility-first CSS framework | ![Quartz.NET](https://img.shields.io/badge/Quartz.NET-004080?logo=clockify&logoColor=white) | Job scheduling library |
+| ![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white) | HTTP client for API requests | ![JWT](https://img.shields.io/badge/JWT%20Auth-000000?logo=jsonwebtokens&logoColor=white) | Token-based authentication |
+| | | ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) | API testing tool |
+| | | ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white) | API documentation generator |
+| | | ![SignalR](https://img.shields.io/badge/SignalR-0088CC?logo=microsoft&logoColor=white) | Real-time communication |
+| | | ![Mediator](https://img.shields.io/badge/Mediator-0078D4?logo=microsoft&logoColor=white) | Decouples communication between components |
+| | | ![CQRS](https://img.shields.io/badge/CQRS-0078D4?logo=microsoft&logoColor=white) | Separates read/write operations |
+| | | ![Excel API](https://img.shields.io/badge/Excel%20API-217346?logo=microsoft-excel&logoColor=white) | Microsoft Excel data processing |
+| | | ![Gmail API](https://img.shields.io/badge/Gmail%20API-D14836?logo=gmail&logoColor=white) | Email automation and integration |
 
 ---
 
@@ -82,10 +82,10 @@ The **Database** stack includes data storage solutions, while **API Deployment**
 
 | Database | Description | API Deployment | Description |
 |----------|------------|---------------|------------|
-| Microsoft Azure SQL Server ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) | Cloud-based relational database | Docker ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | Containerization platform |
-| Redis ![Redis](https://img.shields.io/badge/Redis-DD0031?logo=redis&logoColor=white) | In-memory caching database | GitHub Actions ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) | CI/CD automation |
-| | | Azure Cloud Services ![Azure](https://img.shields.io/badge/Azure%20Cloud-0078D4?logo=microsoftazure&logoColor=white) | Backend deployment |
-| | | ngrok ![ngrok](https://img.shields.io/badge/ngrok-1F1F1F?logo=ngrok&logoColor=white) | Local development tunneling |
+| ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) | Cloud-based relational database | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | Containerization platform |
+| ![Redis](https://img.shields.io/badge/Redis-DD0031?logo=redis&logoColor=white) | In-memory caching database | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) | CI/CD automation |
+| | | ![Azure](https://img.shields.io/badge/Azure%20Cloud-0078D4?logo=microsoftazure&logoColor=white) | Backend deployment |
+| | | ![ngrok](https://img.shields.io/badge/ngrok-1F1F1F?logo=ngrok&logoColor=white) | Local development tunneling |
 
 ---
 
@@ -95,10 +95,10 @@ Additional services and third-party APIs that enhance functionality, such as AI,
 
 | Service | Description |
 |---------|------------|
-| Gemini API ![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?logo=google&logoColor=white) | AI-powered chatbot service |
-| Stripe API ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white) | Online payment processing |
-| WebRTC ![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white) | Peer-to-peer video streaming |
-| Cloudinary ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white) | Image and video storage |
+| ![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?logo=google&logoColor=white) | AI-powered chatbot service |
+| ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white) | Online payment processing |
+| ![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white) | Peer-to-peer video streaming |
+| ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white) | Image and video storage |
 
 
 <a id="uc-diagram"></a>
