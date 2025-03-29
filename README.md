@@ -56,8 +56,7 @@ MindSpace aims to bridge this gap by providing a digital platform where students
 <a id="tech"></a>
 ## 1. Tech Stacks
 
-### Client & Server  
-The **Client** stack includes front-end technologies for building web and mobile applications, while the **Server** stack consists of backend frameworks, authentication, logging, and design patterns.  
+## Client & Server Technologies  
 
 | Client | Description | Server | Description |
 |--------|------------|--------|------------|
@@ -72,10 +71,13 @@ The **Client** stack includes front-end technologies for building web and mobile
 | | | SignalR ![SignalR](https://img.shields.io/badge/SignalR-0088CC?logo=microsoft&logoColor=white) | Real-time communication |
 | | | Mediator Pattern ![Mediator](https://img.shields.io/badge/Mediator-0078D4?logo=microsoft&logoColor=white) | Decouples communication between components |
 | | | CQRS with Clean Architecture ![CQRS](https://img.shields.io/badge/CQRS-0078D4?logo=microsoft&logoColor=white) | Separates read/write operations |
+| | | Excel API ![Excel API](https://img.shields.io/badge/Excel%20API-217346?logo=microsoft-excel&logoColor=white) | Microsoft Excel data processing |
+| | | Gmail API ![Gmail API](https://img.shields.io/badge/Gmail%20API-D14836?logo=gmail&logoColor=white) | Email automation and integration |
 
 ---
 
-### Database & API Deployment  
+## Database & API Deployment  
+
 The **Database** stack includes data storage solutions, while **API Deployment** contains tools for containerization, automation, and cloud services.  
 
 | Database | Description | API Deployment | Description |
@@ -87,7 +89,8 @@ The **Database** stack includes data storage solutions, while **API Deployment**
 
 ---
 
-### Others  
+## Others  
+
 Additional services and third-party APIs that enhance functionality, such as AI, payments, video streaming, and file storage.  
 
 | Service | Description |
@@ -96,6 +99,7 @@ Additional services and third-party APIs that enhance functionality, such as AI,
 | Stripe API ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white) | Online payment processing |
 | WebRTC ![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white) | Peer-to-peer video streaming |
 | Cloudinary ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white) | Image and video storage |
+
 
 <a id="uc-diagram"></a>
 ## 2. Use Case Diagram
