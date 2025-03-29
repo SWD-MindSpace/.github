@@ -128,7 +128,7 @@ MindSpace aims to bridge this gap by providing a digital platform where students
 <img src="./readme/images/MindSpace-StudentScreenflow.png" alt="MindSpace-StudentScreenflow" />
 
 ### 5.2. Parent Screen Flow:
-<img src="./readme/images/MindSpace-ParentScreenflow.png" alt="MindSpace-ParentScreenflow" />
+<img src="./readme/images/MindSpace-ParentScreenFlow.png" alt="MindSpace-ParentScreenflow" />
 
 ### 5.3. Psychologist Screen Flow:
 <img src="./readme/images/MindSpace-PsychologistScreenflow.png" alt="MindSpace-PsychologistScreenflow" />
