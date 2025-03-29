@@ -17,8 +17,6 @@
 <ol start="0"> 
     <li><a href="#intro">Introduction</a></li>
     <li><a href="#tech">Tech Stacks</a></li>
-    <li><a href="#install">Installation</a></li>
-    <li><a href="#api-docs">API Documentation</a></li>
     <li><a href="#uc-diagram">Use Case Diagram</a></li>
     <li><a href="#uc-diagram">Architecture Diagram</a></li>
     <li><a href="#db-design">Database Design</a></li>
@@ -64,6 +62,7 @@ MindSpace aims to bridge this gap by providing a digital platform where students
   <ul>
     <li>Typescript</li>
     <li>Next JS</li>
+    <li>React Native</li>
     <li>Hero UI</li>
     <li>Tailwind CSS</li>
     <li>Axios</li>
@@ -110,79 +109,38 @@ MindSpace aims to bridge this gap by providing a digital platform where students
   </ul>
 </details>
 
-<a id="install"></a>
-## 2. Installation
-To get a local copy of the project up and running, follow these steps.
-
-### Prerequisites
-- .NET Core 9.0
-- SQL Server
-- Redis
-
-Clone the repository:
-
-```bash
-git clone https://github.com/SWD-MindSpace/MindSpace_BE.git
-
-cd MindSpace_BE
-```
-
-Configure the database
-```
-Add appsettings.json to resources
-```
-
-Build the project
-```
-dotnet build
-```
-
-Run the application
-```
-dotnet run
-```
-The application will start on http://localhost:7096.
-
-<a id="api-docs"></a>
-## 3. API Documentation
-
-API documentation is provided using OpenAPI. Once the application is running, you can access the API documentation at:
-```
-https://localhost:7096/swagger/index.html
-```
-
 <a id="uc-diagram"></a>
-## 4. Use Case Diagram
+## 2. Use Case Diagram
 <img src="./readme/images/MindSpace-UsecaseDiagram.png" alt="MindSpace-UsecaseDiagram" />
 
 <a id="db-design"></a>
-## 5. Database Design
+## 3. Database Design
 <img src="./readme/images/MindSpace-ERD.png" alt="MindSpace-ERD" />
 
 <a id="architecture"></a>
-## 6. Architecture Diagram
+## 4. Architecture Diagram
 <img src="./readme/images/MindSpace-ArchitectureDiagram.png" alt="MindSpace-ArchitectureDiagram" />
 
 <a id="screen-flow"></a>
-## 7. Screen Flow
+## 5. Screen Flow
 
-### 7.1. Student Screen Flow:
+### 5.1. Student Screen Flow:
 <img src="./readme/images/MindSpace-StudentScreenflow.png" alt="MindSpace-StudentScreenflow" />
 
-### 7.2. Parent Screen Flow:
+### 5.2. Parent Screen Flow:
 <img src="./readme/images/MindSpace-ParentScreenflow.png" alt="MindSpace-ParentScreenflow" />
 
-### 7.3. Psychologist Screen Flow:
+### 5.3. Psychologist Screen Flow:
 <img src="./readme/images/MindSpace-PsychologistScreenflow.png" alt="MindSpace-PsychologistScreenflow" />
 
-### 7.4. School Manager Screen Flow:
+### 5.4. School Manager Screen Flow:
 <img src="./readme/images/MindSpace-SchoolManagerScreenflow.png" alt="MindSpace-SchoolManagerScreenflow" />
 
-### 7.5. Admin Screen Flow:
+### 5.5. Admin Screen Flow:
 <img src="./readme/images/MindSpace-AdminScreenflow.png" alt="MindSpace-AdminScreenflow" />
 
 <a id="team-members"></a>
-## 8. Team members
+## 6. Team members
 - Vu Kim Duy (github_link) Project Leader, Web Front-End, Back-End Developer
 - Phan Tuan Dat (github_link) Web Front-end, Back-End Developer
 - [Vo Thi Mai Hoa](https://github.com/vohoa2004): Web Front-End, Back-End Developer
