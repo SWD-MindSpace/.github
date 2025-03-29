@@ -52,66 +52,67 @@ MindSpace aims to bridge this gap by providing a digital platform where students
   - Psychologists
 - **Secondary Users**:
   - Parents
-
-
+    
 <a id="tech"></a>
 ## 1. Tech Stacks
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li>Typescript</li>
-    <li>Next JS</li>
-    <li>React Native</li>
-    <li>Hero UI</li>
-    <li>Tailwind CSS</li>
-    <li>Axios</li>
+    <li>TypeScript <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="20"></li>
+    <li>Next.js <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" height="20"></li>
+    <li>React Native <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=white" height="20"></li>
+    <li>Hero UI <img src="https://img.shields.io/badge/Hero%20UI-38B2AC?logo=heroicons&logoColor=white" height="20"></li>
+    <li>Tailwind CSS <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" height="20"></li>
+    <li>Axios <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white" height="20"></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li>ASP.NET Core Web API</li>
-    <li>.NET Entity Framework</li>
-    <li>ASP.NET Identity</li>
-    <li>Serilog</li>
-    <li>Quazt.NET Job Schedulings</li>
-    <li>JWT Authentication</li>
-    <li>Postman</li>
-    <li>Swagger OpenAPI</li>
-    <li>ASP.NET SignalR Realtime Communication</li>
-    <li>Mediator Design Pattern</li>
-    <li>CQRS with Clean Architecture</li>
+    <li>ASP.NET Core Web API <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white" height="20"></li>
+    <li>.NET Entity Framework <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?logo=dotnet&logoColor=white" height="20"></li>
+    <li>ASP.NET Identity <img src="https://img.shields.io/badge/ASP.NET%20Identity-512BD4?logo=dotnet&logoColor=white" height="20"></li>
+    <li>Serilog <img src="https://img.shields.io/badge/Serilog-4B8BBE?logo=serilog&logoColor=white" height="20"></li>
+    <li>Quartz.NET Job Scheduling <img src="https://img.shields.io/badge/Quartz.NET-004080?logo=clockify&logoColor=white" height="20"></li>
+    <li>JWT Authentication <img src="https://img.shields.io/badge/JWT%20Auth-000000?logo=jsonwebtokens&logoColor=white" height="20"></li>
+    <li>Postman <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="20"></li>
+    <li>Swagger OpenAPI <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white" height="20"></li>
+    <li>ASP.NET SignalR Realtime Communication <img src="https://img.shields.io/badge/SignalR-0088CC?logo=microsoft&logoColor=white" height="20"></li>
+    <li>Mediator Design Pattern <img src="https://img.shields.io/badge/Mediator-0078D4?logo=microsoft&logoColor=white" height="20"></li>
+    <li>CQRS with Clean Architecture <img src="https://img.shields.io/badge/CQRS-0078D4?logo=microsoft&logoColor=white" height="20"></li>
   </ul>
 </details>
 
 <details>
-<summary>Database</summary>
+  <summary>Database</summary>
   <ul>
-    <li>Microsoft Azure SQL Server</li>
-    <li>Redis</li>
+    <li>Microsoft Azure SQL Server <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" height="20"></li>
+    <li>Redis <img src="https://img.shields.io/badge/Redis-DD0031?logo=redis&logoColor=white" height="20"></li>
   </ul>
 </details>
 
 <details>
-<summary>API Deployment</summary>
+  <summary>API Deployment</summary>
   <ul>
-    <li>Docker</li>
-    <li>Microsoft Azure Cloud Services</li>
-    <li>Github Actions Auto Deployment</li>
+    <li>Docker <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="20"></li>
+    <li>GitHub Actions <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" height="20"></li>
+    <li>Backend Deployment - Microsoft Azure Cloud Services <img src="https://img.shields.io/badge/Azure%20Cloud-0078D4?logo=microsoftazure&logoColor=white" height="20"></li>
+    <li>Frontend Deployment - ngrok <img src="https://img.shields.io/badge/ngrok-1F1F1F?logo=ngrok&logoColor=white" height="20"></li>
   </ul>
 </details>
 
 <details>
-<summary>Others</summary>
+  <summary>Others</summary>
   <ul>
-    <li>Gemini API - AI Agent Chat Service</li>
-    <li>Stripe API - Payment Service</li>
-    <li>WebRTC - Video Streaming Service</li>
-    <li>Cloudinary File Storage - Static File Storages</li>
+    <li>Gemini API - AI Agent Chat Service <img src="https://img.shields.io/badge/Gemini%20API-4285F4?logo=google&logoColor=white" height="20"></li>
+    <li>Stripe API - Payment Service <img src="https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white" height="20"></li>
+    <li>WebRTC - Video Streaming Service <img src="https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white" height="20"></li>
+    <li>Cloudinary - Static File Storage <img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white" height="20"></li>
   </ul>
 </details>
+
 
 <a id="uc-diagram"></a>
 ## 2. Use Case Diagram
