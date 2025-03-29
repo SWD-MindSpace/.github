@@ -141,12 +141,12 @@ MindSpace aims to bridge this gap by providing a digital platform where students
 
 <a id="team-members"></a>
 ## 6. Team members
-- Vu Kim Duy (github_link) Project Leader, Web Front-End, Back-End Developer
-- Phan Tuan Dat (github_link) Web Front-end, Back-End Developer
+- [Vu Kim Duy](https://github.com/AnonyFriday): Project Leader, Web Front-End, Back-End Developer
+- [Phan Tuan Dat](https://github.com/imbatcat): Web Front-end, Back-End Developer
 - [Vo Thi Mai Hoa](https://github.com/vohoa2004): Web Front-End, Back-End Developer
-- Nguyen Thi Bich Duyen (github_link): Web Front-End Developer
-- Tran Van Tien Dat (github_link): Web Front-End Developer
-- Le Minh Quan (github_link): Mobile Front-End Developer
+- [Nguyen Thi Bich Duyen](https://github.com/cuckoo01): Web Front-End Developer
+- [Tran Van Tien Dat](https://github.com/datTOK): Web Front-End Developer
+- [Le Minh Quan](https://github.com/QuanLM270302): Mobile Front-End Developer
 
 
 <a id="app-a"></a>
